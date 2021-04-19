@@ -4,7 +4,7 @@ Pt2.2:  Ejemplo secret words
 
 
 Pt1: 
-1. Programa que mediante un menú simule el funcionamiento de una calculadora.
+Programa que mediante un menú simule el funcionamiento de una calculadora.
 Opciones:
 Sumar
 Restar
